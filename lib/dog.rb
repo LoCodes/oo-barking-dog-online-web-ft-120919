@@ -10,7 +10,7 @@ end
     @this_dogs_name  = dog_name
   end
 
-d
+
   def bark
   puts "Woof!" 
   end
