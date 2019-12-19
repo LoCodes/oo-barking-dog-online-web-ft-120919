@@ -6,6 +6,7 @@ def bark
   end
 end
 
+def 
   # Your code goes here!
 
 fido = Dog.new 
