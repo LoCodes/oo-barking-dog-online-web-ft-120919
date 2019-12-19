@@ -1,5 +1,5 @@
-class Dog 
-  end
+class Dog  
+end
 # Your code goes here!
  
  
