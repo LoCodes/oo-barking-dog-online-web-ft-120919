@@ -4,4 +4,3 @@ end
 
 fido = Dog.new 
  
- def name = 
